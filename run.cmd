@@ -1,0 +1,1 @@
+for %%i in (fonts\*.ttf) do ttx -o output\%%i -m %%i gasphack.ttx

@@ -1,0 +1,2 @@
+- input dir: fonts
+- output dir: output/fonts
