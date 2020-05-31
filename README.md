@@ -1,3 +1,5 @@
+__备份__`c:\windows\fonts`
+
 - input dir: fonts
 - output dir: output/fonts
 - 替换字体
