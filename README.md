@@ -8,4 +8,5 @@ __备份__`c:\windows\fonts`
 
 ``` shell
 xcopy c:\fonts c:\windows\fonts
+命令提示符下，c盘不一定是系统的c盘，用dir确认一下
 ```
